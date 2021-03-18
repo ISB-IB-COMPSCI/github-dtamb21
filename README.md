@@ -1,4 +1,5 @@
-# :wave: The Basics of GitHub 
+Hi my name is Demetri 
+# :wave: The Basics of GitHub
 
 ## 🤓 Course overview and learning outcomes 
 
